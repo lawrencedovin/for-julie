@@ -1,0 +1,18 @@
+body {
+    /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 1.5rem;
+}
+
+.letter {
+    transition: color 2000ms;
+}
